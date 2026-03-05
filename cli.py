@@ -1,0 +1,1 @@
+print("ICE project starting...")
